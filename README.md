@@ -48,4 +48,4 @@ This project demonstrates practical SQL skills, relational database design, data
 
 **Muzammil Mukadam**
 
-GitHub: [muzamilmukadam](https://github.com/muzamilmukadam)
+GitHub: [muzammilmukadam](https://github.com/muzammilmukadam)
